@@ -3,6 +3,7 @@ GitPython
 numpy==1.23.0
 pybullet==2.7.1
 scikit-image==0.14.2
+setuptools < 60.0
 scipy==1.6.0
 tqdm==4.31.1
 dill
