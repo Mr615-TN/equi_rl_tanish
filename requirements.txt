@@ -1,6 +1,6 @@
 attrdict
 GitPython
-numpy==1.23.0
+numpy==1.20.0
 pybullet==2.7.1
 scikit-image==0.14.2
 setuptools < 60.0
