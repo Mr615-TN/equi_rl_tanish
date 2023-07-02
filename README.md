@@ -15,7 +15,7 @@ Please also checkout the [BulletArm benchmark](https://github.com/ColinKohler/Bu
 ## Installation<a name="installation"></a>
 1. Clone this repository
     ```
-    git clone --recursive https://github.com/pointW/equi_rl.git
+    git clone --recursive https://github.com/Mr615-TN/equi_rl_tanish.git
     ```
 1. Install [anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 1. Create and activate conda environment, install requirement packages
